@@ -1,0 +1,17 @@
+fonts
+
+Russo One
+Roboto
+
+colors
+
+nav-bar, button: #EF22B0 // pink
+nav-bar txt: #FFFFFF // white
+other button color: #06F0AC // light green
+
+background: #241B5F // dark blue
+		##300872 // dark purple
+
+
+
+
